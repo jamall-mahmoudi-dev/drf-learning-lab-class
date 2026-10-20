@@ -1,0 +1,8 @@
+Django==5.2.8
+djangorestframework==3.16.0
+django-filter==25.1
+drf-spectacular==0.28.0
+psycopg[binary]==3.2.10
+redis==6.4.0
+pytest==8.4.2
+pytest-django==4.11.1
