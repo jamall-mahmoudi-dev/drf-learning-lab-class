@@ -452,4 +452,3 @@ docker compose run --rm web pytest
 1. مسیر یک درخواست `GET /api/books/?genre=science` را از Throttling تا Redis و دیتابیس رسم کنید و تفاوت Cache Hit و Cache Miss را نشان دهید.
 2. یک endpoint فقط‌خواندنی به نام `/api/books/stats/` بسازید که تعداد کتاب‌ها را به تفکیک ژانر نمایش دهد. سپس بررسی کنید آیا کش‌کردن این پاسخ مناسب است یا نه و دلیل خود را بنویسید.
 
-پاسخ تمرین‌های بخش‌های آموزشی در فایل `docs/INSTRUCTOR_SOLUTIONS.md` قرار دارد و مخصوص مدرس است.
